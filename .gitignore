@@ -1,0 +1,9 @@
+results/*
+*/*.pyc
+*/*/*.pyc
+*/*/*/*.pyc
+*/*/*/*/*.pyc
+results_backup/*
+results_visulization/*
+datasets/*
+catboost_info/*
